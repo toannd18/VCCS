@@ -1,0 +1,92 @@
+2020-01-12 15:21:44,547 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:21:44,653 [1] ERROR sipsorcery [(null)] - Exception SIPSoftPhoneState. An error occurred creating the configuration section handler for sipsoftphone: Could not load file or assembly 'softphone' or one of its dependencies. The system cannot find the file specified. (C:\Users\toannguyenduc\source\repos\VCCS\VCCS.UI\bin\Debug\VCCS.UI.exe.Config line 5)
+2020-01-12 15:24:02,257 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:24:02,347 [1] ERROR sipsorcery [(null)] - Exception SIPSoftPhoneState. An error occurred creating the configuration section handler for sipsoftphone: Could not load file or assembly 'softphone' or one of its dependencies. The system cannot find the file specified. (C:\Users\toannguyenduc\source\repos\VCCS\VCCS.UI\bin\Debug\VCCS.UI.exe.Config line 5)
+2020-01-12 15:26:10,191 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:29:44,828 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:31:44,163 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:34:24,889 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:37:28,241 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:40:05,216 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:40:57,702 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:41:38,565 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:44:29,204 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 15:51:22,315 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:03:08,250 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:03:08,368 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:04:29,717 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:04:29,795 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:05:16,353 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:05:16,414 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:07:56,853 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:07:56,930 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:10:00,066 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:10:00,132 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:10:29,722 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:10:29,822 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:15:03,799 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:15:03,867 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:16:08,629 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:16:08,716 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:23:49,068 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:23:49,155 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:27:12,147 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:27:12,228 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:43:32,024 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:43:32,096 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:45:19,588 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 16:45:19,734 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 16:45:20,731 [6] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 16:45:20,810 [5] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 16:45:20,917 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 401 Unauthorized.
+2020-01-12 16:45:20,984 [8] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 16:45:21,040 [5] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 16:45:21,150 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 200 OK.
+2020-01-12 16:45:21,168 [siptrans-recv] DEBUG sipsorcery [(null)] - Request Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS sip:2001@172.16.1.246:5060 SIP/2.0.
+2020-01-12 16:45:21,169 [8] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 16:45:21,186 [siptrans-recv] DEBUG sipsorcery [(null)] - SIP OPTIONS request received but no processing has been set up for it, rejecting.
+2020-01-12 16:45:21,207 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS 405 MethodNotAllowed.
+2020-01-12 16:46:21,151 [siptrans-recv] DEBUG sipsorcery [(null)] - Request Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS sip:2001@172.16.1.246:5060 SIP/2.0.
+2020-01-12 16:46:21,164 [siptrans-recv] DEBUG sipsorcery [(null)] - SIP OPTIONS request received but no processing has been set up for it, rejecting.
+2020-01-12 16:46:21,175 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS 405 MethodNotAllowed.
+2020-01-12 17:32:50,921 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 17:32:51,018 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 17:32:56,556 [8] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:32:56,675 [4] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 17:32:56,760 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 401 Unauthorized.
+2020-01-12 17:32:56,777 [6] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:32:56,790 [4] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 17:32:56,890 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 200 OK.
+2020-01-12 17:32:56,900 [siptrans-recv] DEBUG sipsorcery [(null)] - Request Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS sip:2001@172.16.1.246:5060 SIP/2.0.
+2020-01-12 17:32:56,903 [6] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:32:56,927 [siptrans-recv] DEBUG sipsorcery [(null)] - SIP OPTIONS request received but no processing has been set up for it, rejecting.
+2020-01-12 17:32:56,945 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS 405 MethodNotAllowed.
+2020-01-12 17:34:43,674 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 17:34:43,747 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 17:38:14,894 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 17:38:15,016 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 17:38:19,903 [6] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:38:19,974 [5] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 17:38:20,043 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 401 Unauthorized.
+2020-01-12 17:38:20,061 [8] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:38:20,078 [5] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 17:38:20,190 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 200 OK.
+2020-01-12 17:38:20,203 [siptrans-recv] DEBUG sipsorcery [(null)] - Request Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS sip:2001@172.16.1.246:5060 SIP/2.0.
+2020-01-12 17:38:20,204 [8] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:38:20,215 [siptrans-recv] DEBUG sipsorcery [(null)] - SIP OPTIONS request received but no processing has been set up for it, rejecting.
+2020-01-12 17:38:20,233 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS 405 MethodNotAllowed.
+2020-01-12 17:39:20,191 [siptrans-recv] DEBUG sipsorcery [(null)] - Request Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS sip:2001@172.16.1.246:5060 SIP/2.0.
+2020-01-12 17:39:20,199 [siptrans-recv] DEBUG sipsorcery [(null)] - SIP OPTIONS request received but no processing has been set up for it, rejecting.
+2020-01-12 17:39:20,207 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS 405 MethodNotAllowed.
+2020-01-12 17:40:44,303 [1] DEBUG sipsorcery [(null)] - Logging initialised.
+2020-01-12 17:40:44,397 [1] DEBUG sipsorcery [(null)] - Ready
+2020-01-12 17:40:48,293 [8] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:40:48,378 [5] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 17:40:48,449 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 401 Unauthorized.
+2020-01-12 17:40:48,467 [6] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:40:48,481 [5] DEBUG sipsorcery [(null)] - Request Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER sip:172.16.1.17 SIP/2.0.
+2020-01-12 17:40:48,588 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: REGISTER 200 OK.
+2020-01-12 17:40:48,603 [6] DEBUG sipsorcery [(null)] - SIPSorcery.SIP.App.SIPMonitorConsoleEvent
+2020-01-12 17:40:51,696 [siptrans-recv] DEBUG sipsorcery [(null)] - Request Received udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS sip:2001@172.16.1.246:5060 SIP/2.0.
+2020-01-12 17:40:51,712 [siptrans-recv] DEBUG sipsorcery [(null)] - SIP OPTIONS request received but no processing has been set up for it, rejecting.
+2020-01-12 17:40:51,730 [siptrans-recv] DEBUG sipsorcery [(null)] - Response Sent udp:192.168.0.20:5060<-udp:172.16.1.17:5060: OPTIONS 405 MethodNotAllowed.
